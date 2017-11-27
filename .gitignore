@@ -1,1 +1,3 @@
 /packages/*
+/DatabaseDealer/bin/*
+/DatabaseDealer/obj/*
